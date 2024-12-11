@@ -55,5 +55,5 @@ Predicted Label: Virginica
 # Licens
 This project is licensed under the Mit Licens.
 # Author
-Developed by Your Name
+Developed by God Donghae.
 
