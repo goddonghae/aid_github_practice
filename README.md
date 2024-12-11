@@ -39,6 +39,7 @@ python knn_iris_classifier.py
 2.Enter the number of neighbors (k) when prompted.
 3.Vies the model's accuracy and ballanced accuracy in the console.
 4.Input sepal.length and petal.kength in the format value1,valie2 to predict the iris species.
+   ```
 # Example
 Console Interaction:
    ```bash
@@ -47,6 +48,7 @@ Model Accuracy: 0.96
 Balanced Accuracy: 0.95
 Enter the sepal.length and petal.length for the iris in the format 'sepal_length,petal_length': 5.1, 1.8
 Predicted Label: Virginica
+   ```
 # Notes
 - Ensure that the input for predicttions is numeric and follows the correct format (v1, v2).
 - Modify the dataset loading path in the script if necessary.
